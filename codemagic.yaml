@@ -49,4 +49,4 @@ workflows:
           private_key: $APP_STORE_CONNECT_PRIVATE_KEY
         submit_to_testflight: true
         beta_groups:
-          - Internal Testers
+          - name: Internal Testers
