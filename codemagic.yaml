@@ -10,7 +10,7 @@ workflows:
       vars:
         BUNDLE_ID: com.tripbuild.app
     integrations:
-      app_store_connect: app_store_connect
+      app_store_connect: "trip builder app"
     cache:
       cache_paths:
         - $FLUTTER_ROOT/.pub-cache
