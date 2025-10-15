@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277765296529",
+    "project_id": "tripbuild-app",
+    "storage_bucket": "tripbuild-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277765296529:android:863f258a4189c490f4ca30",
+        "android_client_info": {
+          "package_name": "com.tripbuild.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Q1gMIRQoa5aIOlq0mTvcpYiPuIlCCx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
