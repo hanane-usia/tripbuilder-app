@@ -5,6 +5,8 @@ workflows:
     environment:
       flutter: stable
       xcode: 15.3
+      groups:
+        - app_store_connect
       vars:
         BUNDLE_ID: com.tripbuild.app
     cache:
